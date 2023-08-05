@@ -212,7 +212,7 @@ Example:
 
 - GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
 - Twitter: [@dieg02587](https://twitter.com/dieg02587)
-- LinkedIn: [Diego Vidal Lopez](https://www.linkedin.com/in/diego-vidal2587/?locale=en_US)
+- LinkedIn: [Diego Vidal Lopez](https://www.linkedin.com/in/diego-vidal-lopez)
 
 👤 **Author2**
 
