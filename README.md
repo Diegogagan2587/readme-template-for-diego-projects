@@ -208,7 +208,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Dievo Vidal Lopez**
+👤 **Diego Vidal Lopez**
 
 - GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
 - Twitter: [@dieg02587](https://twitter.com/dieg02587)
